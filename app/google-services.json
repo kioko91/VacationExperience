@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "781565730374",
+    "firebase_url": "https://vacation-24a5a.firebaseio.com",
+    "project_id": "vacation-24a5a",
+    "storage_bucket": "vacation-24a5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781565730374:android:f037e75b76c76b1a21b447",
+        "android_client_info": {
+          "package_name": "com.calvin.vacationexperience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781565730374-u9fjeln8offorkfl24ieta764fgrpkdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJezeg_A6JxudGNylaacptoY95SfciGIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781565730374-u9fjeln8offorkfl24ieta764fgrpkdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781565730374:android:a35131ea701722bd21b447",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781565730374-u9fjeln8offorkfl24ieta764fgrpkdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJezeg_A6JxudGNylaacptoY95SfciGIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781565730374-u9fjeln8offorkfl24ieta764fgrpkdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
